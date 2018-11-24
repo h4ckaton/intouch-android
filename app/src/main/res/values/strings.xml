@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HackYeah</string>
+    <string name="scan_info">Scan QR</string>
+</resources>
