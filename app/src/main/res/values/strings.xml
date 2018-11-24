@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">HackYeah</string>
     <string name="scan_info">Scan QR</string>
+    <string name="userCardTitle">User Card</string>
+    <string name="scannerTitle">QR</string>
+    <string name="contactsTitle">Contacts</string>
+    <string name="not_registered_yet">Not account yet? Create one</string>
+    <string name="login">Log in</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="register">Register</string>
+    <string name="register_instruction">Please fill form with data to sign up account</string>
+    <string name="password_hint_retype">Retype password</string>
 </resources>
